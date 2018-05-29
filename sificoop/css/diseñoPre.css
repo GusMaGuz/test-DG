@@ -1,0 +1,35 @@
+body{
+	/*background-color: Ivory;*/
+	background-color: white;
+}
+
+.principal{
+	display: flex;
+	justify-content: center;
+}
+
+.CElement{
+	display: flex;
+	flex-direction: column;
+}
+
+.CI{
+	margin-top: 150px;
+	display : flex;
+	justify-content: center;
+}
+
+.informacion{
+	display : flex;
+	justify-content: center;
+	margin-top: 60px;
+}
+
+#max{
+	max-width: 100%;
+	border-radius: 150px;
+}
+
+.centratext{
+	text-align : center;
+}
